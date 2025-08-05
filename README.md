@@ -43,7 +43,7 @@ Desarrollador iOS a cargo del:
 
 | Inicio | Detalle Evento | Usuario | Mapa |
 |---------|----------|---------|---------|
-| ![Lista de eventos](screenshots/event_list.jpeg) | ![detalle](screenshots/Detail_event.jpeg) | ![user](screenshots/user.jpeg) | ![map](screenshots/map.jpeg)
+| ![Lista de eventos](screenshots/event_list.jpeg) | ![detalle](screenshots/Detail_event.jpeg) | ![user](screenshots/user.jpeg) | ![map](screenshots/map.jpeg) |
 
 
 ---
