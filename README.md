@@ -41,8 +41,8 @@ Desarrollador iOS a cargo del:
 
 ## 📸 Capturas de Pantalla
 
-| Inicio | Detalle Evento | Mapa | Mapa |
-|-------|----------------|-------|------|
+| Inicio | Detalle Evento | Usuario | Mapa |
+|---------|----------|---------|---------|
 | ![Lista de eventos](screenshots/event_list.jpeg) | ![detalle](screenshots/Detail_event.jpeg) | ![user](screenshots/user.jpeg) | ![map](screenshots/map.jpeg)
 
 
