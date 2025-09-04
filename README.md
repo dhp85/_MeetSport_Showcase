@@ -1,4 +1,4 @@
-# 📱 SportMeet – App de Eventos Deportivos
+# 📱 MeetSport – App de Eventos Deportivos
 
 **SportMeet** es una aplicación iOS desarrollada en SwiftUI que conecta a los usuarios con eventos deportivos cercanos, permitiéndoles descubrir, seguir y asistir a competiciones en su zona.
 
@@ -50,7 +50,7 @@ Desarrollador iOS a cargo del:
 
 ## 🔒 Código Privado
 
-El código fuente de SportMeet está en un repositorio privado por motivos de confidencialidad, pero este repositorio sirve como presentación del proyecto.
+El código fuente de MeetSport está en un repositorio privado por motivos de confidencialidad, pero este repositorio sirve como presentación del proyecto.
 
 Si deseas más información o acceso a una demo, puedes contactar conmigo directamente:
 
@@ -67,5 +67,5 @@ La app se encuentra actualmente en pruebas con usuarios reales a través de Test
 
 ## 💡 ¿Por qué este proyecto importa?
 
-SportMeet no solo es una app funcional, sino una muestra de cómo combino diseño centrado en el usuario, integración de servicios, y metodologías ágiles para entregar un producto real y funcional.
+MeetSport no solo es una app funcional, sino una muestra de cómo combino diseño centrado en el usuario, integración de servicios, y metodologías ágiles para entregar un producto real y funcional.
 
