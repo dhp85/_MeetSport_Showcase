@@ -1,41 +1,43 @@
 # 📱 MeetSport – App de Eventos Deportivos
 
-**MeetSport** es una aplicación iOS desarrollada en SwiftUI que conecta a los usuarios con eventos deportivos cercanos, permitiéndoles descubrir, seguir y asistir a competiciones en su zona.
+**MeetSport** es una aplicación iOS desarrollada en **SwiftUI** que conecta a los usuarios con **eventos deportivos locales**, permitiéndoles descubrir, crear y unirse a partidos, torneos y quedadas deportivas en su zona.  
 
-Actualmente está en fase de pruebas en **TestFlight** y ha sido desarrollada como parte de un proyecto freelance.
+📲 **Descárgala gratis en App Store:**  
+👉 [https://apps.apple.com/es/app/meetsport/id6749143572](https://apps.apple.com/es/app/meetsport/id6749143572)  
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-- **Lenguaje:** Swift
-- **Framework:** SwiftUI
-- **Arquitectura:** MVVM
-- **Backend:** Firebase (Auth, Firestore, Storage)
-- **Otras herramientas:** Notificaciones push, MapKit, TestFlight
+- **Lenguaje:** Swift  
+- **Framework UI:** SwiftUI  
+- **Arquitectura:** MVVM  
+- **Backend:** Firebase (Auth, Firestore, Storage)  
+- **Servicios externos:** MapKit, Notificaciones Push, Compartir en redes sociales  
 
 ---
 
 ## 🚀 Funcionalidades Principales
 
--  Explorar eventos deportivos filtrados por fecha y ubicación  
--  Marcar/Desmarcar asistencia
--  Notificaciones  
--  Mapas y navegacion ubicación de eventos  
--  Registro/Login de usuarios con Firebase Auth  
--  Crear, editar o borrar evento
--  Compartir eventos en tu red social favorita
--  Editar perfil (fotografia, email, deportes favoritos...etc)
+- 🔍 Explorar eventos deportivos por deporte, ubicación y fecha  
+- 📝 Crear, editar y eliminar eventos  
+- 🙋 Confirmar asistencia a partidos o quedadas  
+- 📲 Notificaciones push para recordatorios y actualizaciones  
+- 🗺️ Mapas integrados con navegación al evento  
+- 👤 Gestión de perfil (foto, deportes favoritos, email)  
+- 📤 Compartir eventos en redes sociales  
 
 ---
 
-## 🎯 Mi Rol
+## 🎯 Mi Rol en el Proyecto
 
-Desarrollador iOS a cargo del:
-- Diseño técnico y desarrollo completo de la app
-- Integración con Firebase y servicios externos
-- Pruebas, TestFlight y publicación
-- Gestión del proyecto
+Lideré el desarrollo de **principio a fin**:  
+- Diseño de arquitectura y experiencia de usuario.  
+- Desarrollo completo de la app en **SwiftUI**.  
+- Integración con **Firebase** (Auth, Firestore, Storage) y **MapKit**.  
+- Configuración de notificaciones push y funciones de compartición.  
+- Ciclo completo de publicación: **TestFlight → App Store**.  
+- Gestión del proyecto, pruebas con usuarios y mejoras continuas.  
 
 ---
 
@@ -48,24 +50,31 @@ Desarrollador iOS a cargo del:
 
 ---
 
-## 🔒 Código Privado
+## 🔒 Repositorio
 
-El código fuente de MeetSport está en un repositorio privado por motivos de confidencialidad, pero este repositorio sirve como presentación del proyecto.
+El código fuente de **MeetSport** se encuentra en un repositorio privado por motivos de confidencialidad.  
 
-Si deseas más información o acceso a una demo, puedes contactar conmigo directamente:
+Este repositorio público actúa como **presentación técnica y de producto**.  
 
-📫 **[diegohp85@gmail.com]**  
-🔗 **[www.linkedin.com/in/diego-herreros-parrón-b73a0121b]**
-
----
-
-## 📦 En desarrollo
-
-La app se encuentra actualmente en pruebas con usuarios reales a través de TestFlight. Feedback constante permite mejorar cada iteración.
+📫 Contacto: [diegohp85@gmail.com]  
+🔗 LinkedIn: [Diego Herreros Parrón](https://www.linkedin.com/in/diego-herreros-parrón-b73a0121b)  
 
 ---
 
-## 💡 ¿Por qué este proyecto importa?
+## 📦 Estado del Proyecto
 
-MeetSport no solo es una app funcional, sino una muestra de cómo combino diseño centrado en el usuario, integración de servicios, y metodologías ágiles para entregar un producto real y funcional.
+- 📲 Disponible en App Store  
+- 🧪 En pruebas con usuarios reales  
+- 🔄 Iteraciones ágiles con feedback continuo  
 
+---
+
+## 💡 Valor del Proyecto
+
+MeetSport demuestra mi capacidad para:  
+- ✅ Desarrollar un producto **real y publicado** en App Store  
+- ✅ Aplicar **SwiftUI + Firebase + MapKit** en un entorno de producción  
+- ✅ Gestionar un proyecto end-to-end (arquitectura, desarrollo, testing, publicación)  
+- ✅ Integrar feedback de usuarios en ciclos de mejora rápida  
+
+Un ejemplo claro de cómo combino **desarrollo técnico + diseño centrado en el usuario** para entregar un producto funcional y escalable.  
